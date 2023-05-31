@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PessOak
-- 👀 I’m interested in learning computer languages, currently working with python
-- 🌱 I’m currently learning Python 3
+- 👀 I’m interested in learning computer languages, currently working with Python, R and SQL
+- 🌱 I’m currently learning Python 3, Data Analysis with spreadsheets, SQL, R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pessoa.carvalho@outlook.com
 
