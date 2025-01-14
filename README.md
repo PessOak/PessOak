@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PessOak
 - 👀 I’m interested in learning programming languages. I'm studying System Analysis
-- 🌱 I’m currently learning front-end and data analysis with spreadsheets, SQL, R and Python.
+- 🌱 I’m currently learning web development (C#, JS, Java) and data analysis (spreadsheets, SQL, R, Python).
 - 📫 How to reach me pessoa.carvalho@outlook.com and https://www.linkedin.com/in/pcrafael/
 
 <!---
