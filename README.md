@@ -3,7 +3,7 @@
 ## Sobre mim
 - 🎯 Estudante de Análise de Sistemas pela PUC Minas
 - 💻 Focado em Desenvolvimento Web e Análise de Dados (Python, SQL, HTML, CSS, JavaScript, ASP.NET Core)
-- 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/seu-perfil) OU [Email](pessoa.carvalho@outlook.com)
+- 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/pcrafael) OU [Email](pessoa.carvalho@outlook.com)
 
 ## 📊 GitHub Stats
 
